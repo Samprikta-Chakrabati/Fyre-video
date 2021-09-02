@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: deeppink;
+    background-color: grey;
 }
 
 h1 {
@@ -15,13 +15,13 @@ h3 {
 
 #logo {
     border-radius: 50%;
-    width: 175px;
+    width: 400px;
 }
 
 section {
     font-size: 25px;
     font-family: cursive;
-    background-color: lightpink;
+    background-color: lightgreen;
     color: black;
 }
 
